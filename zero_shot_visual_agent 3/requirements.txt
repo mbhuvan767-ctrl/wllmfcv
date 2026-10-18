@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+accelerate
+langgraph>=0.2
+streamlit>=1.35
+scikit-learn
+pandas
+numpy
+Pillow>=10.0
+matplotlib

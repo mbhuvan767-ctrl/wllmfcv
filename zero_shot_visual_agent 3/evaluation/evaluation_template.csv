@@ -1,0 +1,1 @@
+image_path,split,question,reference_answer,predicted_answer,answer_correct_0_or_1,gt_objects_json,pred_objects_json,hazard_reference_0_or_1,hazard_prediction_0_or_1,human_review_notes
